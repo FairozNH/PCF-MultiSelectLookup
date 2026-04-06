@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml version="9.1.0.643"
+                 SolutionPackageVersion="9.1"
+                 languagecode="1033"
+                 generatedBy="CrmLive"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <SolutionManifest>
+        <!-- Unique Name of Cds Solution -->
+        <UniqueName>MultiSelectLookup</UniqueName>
+        <LocalizedNames>
+            <!-- Localized Solution Name in language code -->
+            <LocalizedName description="MultiSelectLookupSolution"
+                           languagecode="1033" />
+        </LocalizedNames>
+        <Descriptions />
+        <Version>1.1</Version>
+        <!-- Solution Package Type: Unmanaged(0)/Managed(1)/Both(2) -->
+        <Managed>2</Managed>
+        <Publisher>
+            <!-- Unique Publisher Name of Cds Solution -->
+            <UniqueName>fairozdev</UniqueName>
+            <LocalizedNames>
+                <!-- Localized Cds Publisher Name in language code -->
+                <LocalizedName description="fairozdev"
+                               languagecode="1033" />
+            </LocalizedNames>
+            <Descriptions>
+                <!-- Description of Cds Publisher in language code -->
+                <Description description="fairozdev"
+                             languagecode="1033" />
+            </Descriptions>
+            <EMailAddress xsi:nil="true" />
+            <SupportingWebsiteUrl xsi:nil="true" />
+            <!-- Customization Prefix for the Cds Publisher -->
+            <CustomizationPrefix>fkd</CustomizationPrefix>
+            <!-- Derived Option Value Prefix for the Customization Prefix of Cds Publisher -->
+            <CustomizationOptionValuePrefix>86861</CustomizationOptionValuePrefix>
+            <Addresses>
+                <!-- Address of the Publisher -->
+                <Address>
+                    <AddressNumber>1</AddressNumber>
+                    <AddressTypeCode>1</AddressTypeCode>
+                    <City xsi:nil="true" />
+                    <County xsi:nil="true" />
+                    <Country xsi:nil="true" />
+                    <Fax xsi:nil="true" />
+                    <FreightTermsCode xsi:nil="true" />
+                    <ImportSequenceNumber xsi:nil="true" />
+                    <Latitude xsi:nil="true" />
+                    <Line1 xsi:nil="true" />
+                    <Line2 xsi:nil="true" />
+                    <Line3 xsi:nil="true" />
+                    <Longitude xsi:nil="true" />
+                    <Name xsi:nil="true" />
+                    <PostalCode xsi:nil="true" />
+                    <PostOfficeBox xsi:nil="true" />
+                    <PrimaryContactName xsi:nil="true" />
+                    <ShippingMethodCode>1</ShippingMethodCode>
+                    <StateOrProvince xsi:nil="true" />
+                    <Telephone1 xsi:nil="true" />
+                    <Telephone2 xsi:nil="true" />
+                    <Telephone3 xsi:nil="true" />
+                    <TimeZoneRuleVersionNumber xsi:nil="true" />
+                    <UPSZone xsi:nil="true" />
+                    <UTCOffset xsi:nil="true" />
+                    <UTCConversionTimeZoneCode xsi:nil="true" />
+                </Address>
+                <Address>
+                    <AddressNumber>2</AddressNumber>
+                    <AddressTypeCode>1</AddressTypeCode>
+                    <City xsi:nil="true" />
+                    <County xsi:nil="true" />
+                    <Country xsi:nil="true" />
+                    <Fax xsi:nil="true" />
+                    <FreightTermsCode xsi:nil="true" />
+                    <ImportSequenceNumber xsi:nil="true" />
+                    <Latitude xsi:nil="true" />
+                    <Line1 xsi:nil="true" />
+                    <Line2 xsi:nil="true" />
+                    <Line3 xsi:nil="true" />
+                    <Longitude xsi:nil="true" />
+                    <Name xsi:nil="true" />
+                    <PostalCode xsi:nil="true" />
+                    <PostOfficeBox xsi:nil="true" />
+                    <PrimaryContactName xsi:nil="true" />
+                    <ShippingMethodCode>1</ShippingMethodCode>
+                    <StateOrProvince xsi:nil="true" />
+                    <Telephone1 xsi:nil="true" />
+                    <Telephone2 xsi:nil="true" />
+                    <Telephone3 xsi:nil="true" />
+                    <TimeZoneRuleVersionNumber xsi:nil="true" />
+                    <UPSZone xsi:nil="true" />
+                    <UTCOffset xsi:nil="true" />
+                    <UTCConversionTimeZoneCode xsi:nil="true" />
+                </Address>
+            </Addresses>
+        </Publisher>
+        <RootComponents />
+        <MissingDependencies />
+    </SolutionManifest>
+</ImportExportXml>
