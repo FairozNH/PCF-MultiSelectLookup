@@ -2,7 +2,7 @@
 <manifest>
     <control namespace="fairozdev"
              constructor="MultiSelectLookup"
-             version="0.0.5"
+             version="0.0.6"
              display-name-key="MultiSelectLookup"
              description-key="MultiSelect Lookup Component"
              control-type="standard">
